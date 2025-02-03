@@ -6,7 +6,7 @@ The code itself might be the worst I've ever written: this is from before I knew
 
 a) The results are interesting
 
-b) It's very likely it will be rewritten from the ground up in the future.
+b) I like gawking at it.
 
 The dependency data itself is extracted from David E. Joyce's online version of Euclid's elements, available [here](https://mathcs.clarku.edu/~djoyce/java/elements/elements.html)
 
